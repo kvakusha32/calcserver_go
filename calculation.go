@@ -1,4 +1,4 @@
-package ad
+package main
 
 import (
 	"errors"
